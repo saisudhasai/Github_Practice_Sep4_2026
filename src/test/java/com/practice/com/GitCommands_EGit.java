@@ -1,6 +1,6 @@
 package com.practice.com;
 
-public class GitCOmmands_EGit
+public class GitCommands_EGit
 {
 	public static void main(String[] args)
 	{
